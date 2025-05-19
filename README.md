@@ -19,7 +19,7 @@ for rendering the interface.
 
   The game accepts keyboard input for entering letters, deleting letters (backspace), and submitting guesses (enter key).
   
-  Visual input is displayed directly on the interface to lead the player towards the correct answer.\
+  Visual input is displayed directly on the interface to lead the player towards the correct answer.
 
 
 <p align="center">
