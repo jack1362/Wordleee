@@ -5,8 +5,9 @@ This project is a Python implementation of a word-guessing game inspired by "Wor
 which was originally published by The New York Times. It uses OOP and the Pygame library\n
 for rendering the interface.\n\n
 
-Gameplay:\n
-  Players attempt to guess a randomly selected five letter word within five attempts.\n
+Gameplay:
+
+  Players attempt to guess a randomly selected five letter word within five attempts.
   After each guess, the game provides fedback by color-coding letters\n
     - Green: Correct letter in correct position\n
     - Correct letter in wrong position\n
