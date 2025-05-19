@@ -1,8 +1,17 @@
-# Wordleee
-This was a program that was made for the end of year project for AP Computer Science Principles
+# Wordleee: A Word Guessing Game
+This was a simplistic program that was made for the end of year project for AP Computer Science Principles
 
-This program is coded in python, it's a game called "Wordleee."
-I took inspration from the game "Wordle" which was originally published by The New York Times.
-It takes and displays user input on the screen using the pygame package.
-You can input/delete letters to make words. The goal is to guess the correct randomized word.
-The program will show you which letters you got correct or partially correct.
+This project is a Python implementation of a word-guessing game inspired by "Worlde,"
+which was originally published by The New York Times. It uses OOP and the Pygame library
+for rendering the interface.
+
+Gameplay:
+  Players attempt to guess a randomly selected five letter word within five attempts.
+  After each guess, the game provides fedback by color-coding letters
+    - Green: Correct letter in correct position
+    - Correct letter in wrong position
+    - Letter not present in the correct word
+
+Interaction:
+  The game accepted keyboard input for entering letters, deleting letters (backspace), and submitting guesses (enter key).
+  Visual input is displayed directly on the interface to lead the player towards the correct answer.
