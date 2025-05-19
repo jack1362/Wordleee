@@ -20,3 +20,4 @@ for rendering the interface.
   The game accepted keyboard input for entering letters, deleting letters (backspace), and submitting guesses (enter key).
   
   Visual input is displayed directly on the interface to lead the player towards the correct answer.
+![image](https://github.com/user-attachments/assets/dd47e091-d2b0-4646-ad2a-641d82a39333)
