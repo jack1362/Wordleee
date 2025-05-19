@@ -22,5 +22,5 @@ for rendering the interface.
   Visual input is displayed directly on the interface to lead the player towards the correct answer.\
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dd47e091-d2b0-4646-ad2a-641d82a39333" width="500" height="500" border="10"/>
+<img src="https://github.com/user-attachments/assets/ff2e44ae-e64b-4bf3-9c9b-701e65db4f91" width="500" height="500" border="10"/>
 </p>
