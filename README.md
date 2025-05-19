@@ -24,3 +24,8 @@ for rendering the interface.
 <kbd> <p align="center">
 <img src="https://github.com/user-attachments/assets/ff2e44ae-e64b-4bf3-9c9b-701e65db4f91"
 </p> </kbd>
+
+
+<kbd>
+  <img src="https://github.com/user-attachments/assets/ff2e44ae-e64b-4bf3-9c9b-701e65db4f91">
+</kbd>
