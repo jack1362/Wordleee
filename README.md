@@ -1,7 +1,7 @@
 # Wordleee: A Word Guessing Game
 This was a simplistic program that was made for the end of year project for AP Computer Science Principles
 
-This project is a Python implementation of a word-guessing game inspired by "Worlde,"
+This project is a Python implementation of a word-guessing game inspired by "Wordle,"
 which was originally published by The New York Times. It uses OOP and the Pygame library
 for rendering the interface.
 
